@@ -7,5 +7,9 @@ public class Employee {
 		String name = "Shyam Shrestha";
 		System.out.println(name);
 		
+		
+		int id = 12;
+		String address = "Kathmandu";
+		
 	}	
 }
